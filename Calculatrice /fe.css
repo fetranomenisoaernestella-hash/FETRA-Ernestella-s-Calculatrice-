@@ -44,6 +44,12 @@ body{
 button:hover{
   background-color: lightpink
 }
+.rrr{
+  background-color:red;
+}
+.égal{
+  background-color: olive;
+}
 @media screen and (max-width: 400px){
   .calculatrice{
     width: 90%;
